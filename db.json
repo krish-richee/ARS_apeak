@@ -843,5 +843,27 @@
       "product": "KSO Evo",
       "reason": "zero drop and individual toe slots"
     }
+  ],
+  "rfy_148839_same": [
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Active Creme PFC Free - Black",
+      "reason": "low price $15"
+    },
+    {
+      "scenario": "you want better water resistance",
+      "product": "Waterstop",
+      "reason": "better water resistance $1 more"
+    },
+    {
+      "scenario": "you want to maintain boot condition",
+      "product": "Lowa Polishing Brush",
+      "reason": "easy maintenance and polishing"
+    },
+    {
+      "scenario": "you want similar features at same price",
+      "product": "Active Creme PFC Free",
+      "reason": "same features as selected option"
+    }
   ]
 }
