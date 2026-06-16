@@ -1,0 +1,847 @@
+{
+  "rfy2_181850_same": [
+    {
+      "scenario": "you want a wide forefoot fit",
+      "product": "TX4 EVO ST",
+      "reason": "excellent comfort and support"
+    },
+    {
+      "scenario": "you want a waterproof hiking boot",
+      "product": "TX Hike Mid Leather GTX",
+      "reason": "recycled Gore-Tex lining and Rs. 40 more"
+    },
+    {
+      "scenario": "you want a budget-friendly trail shoe",
+      "product": "Wildcat",
+      "reason": "Rs. 19 less than the TX4 EVO ST"
+    },
+    {
+      "scenario": "you want a simple, one-piece upper design",
+      "product": "Wildcat",
+      "reason": "protective wear-resistant mesh trail cage"
+    }
+  ],
+  "rfy2_181850_diff": [
+    {
+      "scenario": "you want a wide forefoot fit",
+      "product": "TX4 EVO ST",
+      "reason": "eco materials and 7% recycled content"
+    },
+    {
+      "scenario": "you want a shock absorbing midsole",
+      "product": "Innox Evo II Lo by Lowa Boots",
+      "reason": "DynaPU shock absorbing zones and Rs.195 price"
+    },
+    {
+      "scenario": "you want a minimalist running experience",
+      "product": "Innox Evo II Lo Ws by Lowa Boots",
+      "reason": "Rs.195 price and zero drop design"
+    },
+    {
+      "scenario": "you want individual toe slots for dexterity",
+      "product": "KSO Evo by Vibram FiveFingers",
+      "reason": "Rs.115 price and natural running motion"
+    }
+  ],
+  "rfy2_3425_diff": [
+    {
+      "scenario": "you want a traditional paisley pattern",
+      "product": "Texas Paisley Bandana",
+      "reason": "larger size and imported design"
+    },
+    {
+      "scenario": "you want temporary, removable body art",
+      "product": "Temporary Tattoos by Nature Tats",
+      "reason": "long-lasting and reusable for Rs.5"
+    },
+    {
+      "scenario": "you want a small, easy-to-use accessory",
+      "product": "Stickers by Leslie Kooy",
+      "reason": "affordable price at Rs.4"
+    }
+  ],
+  "rfy2_6754_diff": [
+    {
+      "scenario": "you want a compact dish cleaning solution",
+      "product": "Camp Dish Cloth",
+      "reason": "Two snaps for compact storage"
+    },
+    {
+      "scenario": "you want a bandana with outdoor graphics",
+      "product": "Outdoor Novelty Bandanas by Printed Image",
+      "reason": "Distinctive, detailed outdoor-inspired screen printed graphics"
+    },
+    {
+      "scenario": "you want a budget-friendly bandana option",
+      "product": "Novelty Bandanas by Carolina Manufacturing",
+      "reason": "Rs. Rs. 5 cheaper than other options"
+    },
+    {
+      "scenario": "you want a versatile bandana for multiple uses",
+      "product": "Scat Bandana by Liberty Mountain Sports",
+      "reason": "Hanging loops for quick-drying convenience"
+    }
+  ],
+  "rfy2_3425_same": [
+    {
+      "scenario": "you want a non-traditional paisley pattern",
+      "product": "Texas Paisley Bandana",
+      "reason": "unique Texas paisley design"
+    },
+    {
+      "scenario": "you want a classic, traditional paisley look",
+      "product": "Traditional Paisley Bandanas",
+      "reason": "made in the USA and printed on back"
+    },
+    {
+      "scenario": "you want a bandana with ultra-durable construction",
+      "product": "Tie-Dye Bandanas",
+      "reason": "high-quality construction at Rs. 5 price"
+    },
+    {
+      "scenario": "you want a budget-friendly paisley bandana option",
+      "product": "Texas Paisley Bandana",
+      "reason": "Rs. Rs. 4 price point"
+    }
+  ],
+  "rfy2_8248_same": [
+    {
+      "scenario": "you want extra-large hat size",
+      "product": "Amelia Hat",
+      "reason": "largest crown size available"
+    },
+    {
+      "scenario": "you want a more affordable option",
+      "product": "Petite Kristy Hat",
+      "reason": "Rs. Rs. 8 less than Amelia Hat"
+    },
+    {
+      "scenario": "you want a visor instead of a hat",
+      "product": "Savannah Visor",
+      "reason": "Rs. Rs. 17 less than Amelia Hat"
+    },
+    {
+      "scenario": "you want similar features to Amelia Hat",
+      "product": "Amelia Hat",
+      "reason": "same UPF 50+ protection and brim size"
+    }
+  ],
+  "rfy2_12730_same": [
+    {
+      "scenario": "you want a lightweight hat option",
+      "product": "Savannah Visor",
+      "reason": "affordable at Rs. 37"
+    },
+    {
+      "scenario": "you want a petite hat design",
+      "product": "Petite Kristy Hat",
+      "reason": "offers 3\" brim at Rs. 46"
+    },
+    {
+      "scenario": "you want a hat with internal adjustments",
+      "product": "Amelia Hat",
+      "reason": "features internal drawstring at Rs. 54"
+    },
+    {
+      "scenario": "you want a basic visor style",
+      "product": "Savannah Visor",
+      "reason": "most affordable option at Rs. 37"
+    }
+  ],
+  "rfy2_148839_same": [
+    {
+      "scenario": "you want waterproof boots for hiking",
+      "product": "Active Creme PFC Free - Black",
+      "reason": "waterproof membrane for wet conditions"
+    },
+    {
+      "scenario": "you want boots with extra protection",
+      "product": "Waterstop",
+      "reason": "additional moisture resistance for harsh environments"
+    },
+    {
+      "scenario": "you want to save money on boots",
+      "product": "Lowa Polishing Brush",
+      "reason": "affordable price for maintenance tool"
+    },
+    {
+      "scenario": "you want boots with easy care",
+      "product": "Active Creme PFC Free - Black",
+      "reason": "air dry feature for simple maintenance"
+    }
+  ],
+  "rfy3_181850_same": [
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "TX4 EVO ST",
+      "reason": "$179 price point"
+    },
+    {
+      "scenario": "you want a waterproof hiking boot",
+      "product": "TX Hike Mid Leather GTX",
+      "reason": "Gore-Tex lining for water resistance"
+    },
+    {
+      "scenario": "you want a simple trail running shoe",
+      "product": "Wildcat",
+      "reason": "$160 affordable price point"
+    },
+    {
+      "scenario": "you want a simple trail running shoe",
+      "product": "Wildcat",
+      "reason": "$160 affordable price point"
+    }
+  ],
+  "rfy3_21479_same": [
+    {
+      "scenario": "you want a small hat for travel",
+      "product": "Petite Kristy Hat",
+      "reason": "3\" brim and packable design"
+    },
+    {
+      "scenario": "you want a larger hat for sun protection",
+      "product": "Amelia Hat",
+      "reason": "3 3/4\" brim and UPF 50+ fabric"
+    },
+    {
+      "scenario": "you want a budget-friendly visor option",
+      "product": "Savannah Visor",
+      "reason": "affordable price of $37"
+    }
+  ],
+  "rfy3_12730_same": [
+    {
+      "scenario": "you want a casual, everyday visor",
+      "product": "Savannah Visor",
+      "reason": "affordable price point of $37"
+    },
+    {
+      "scenario": "you want a petite hat option",
+      "product": "Petite Kristy Hat",
+      "reason": "specifically designed for smaller head sizes"
+    },
+    {
+      "scenario": "you want a larger brimmed hat",
+      "product": "Amelia Hat",
+      "reason": "features a 3\u00be\" brim for extra protection"
+    }
+  ],
+  "pts_181850_same": {
+    "alt_1": [
+      "The TX Hike Mid Leather GTX features a recycled & bluesign certified ePE Gore-Tex lining, which makes it a genuine substitute for the TX4 EVO ST's water resistance.",
+      "The TX Hike Mid Leather GTX is $40 more expensive than the TX4 EVO ST.",
+      "A customer looking for a waterproof hiking boot for long-distance backpacking trips in wet conditions would be a good fit for the TX Hike Mid Leather GTX."
+    ],
+    "alt_2": [
+      "The Wildcat's simple one-piece upper with a protective wear-resistant mesh trail cage makes it a genuine substitute for the TX4 EVO ST's approach shoe design.",
+      "The Wildcat weighs 1.2 oz less than the TX4 EVO ST.",
+      "A customer who runs trails in moderate to technical terrain and values a lightweight, secure fit would be a good fit for the Wildcat."
+    ],
+    "alt_3": [
+      "The Wildcat's simple one-piece upper with a protective wear-resistant mesh trail cage makes it a genuine substitute for the TX4 EVO ST's approach shoe design.",
+      "The Wildcat has the same price as the Wildcat in Alt 2.",
+      "A customer who runs trails in moderate to technical terrain and values a lightweight, secure fit would be a good fit for the Wildcat."
+    ]
+  },
+  "rfy2_69991_same": [
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Lowa Polishing Brush",
+      "reason": "cheapest option at $13"
+    },
+    {
+      "scenario": "you want a brush with a unique shape",
+      "product": "Lowa Triangle Brush",
+      "reason": "triangle shape for better cleaning"
+    },
+    {
+      "scenario": "you want a waterproofing cream with PFC",
+      "product": "Active Creme PFC Free - Black",
+      "reason": "black color for discreet application"
+    },
+    {
+      "scenario": "you want a waterproofing cream without PFC",
+      "product": "Active Creme PFC Free",
+      "reason": "same price as PFC version at $15"
+    }
+  ],
+  "rfy2_186359_same": [
+    {
+      "scenario": "you want a classic crew sock fit",
+      "product": "Field Guide Crew Lightweight Lifestyle Sock",
+      "reason": "10.5 in. from heel to cuff"
+    },
+    {
+      "scenario": "you want a women's crew sock option",
+      "product": "Farmer's Market Crew Lightweight Lifestyle Sock",
+      "reason": "$23 lower price"
+    },
+    {
+      "scenario": "you want a striped patterned sock",
+      "product": "Mystic Stripe Crew Lightweight Lifestyle Sock",
+      "reason": "unique striped pattern design"
+    },
+    {
+      "scenario": "you want a sock for water activities",
+      "product": "Float Boat Crew Lightweight Lifestyle Sock",
+      "reason": "$1 higher price"
+    }
+  ],
+  "rfy2_186359_diff": [
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Crew Socks",
+      "reason": "lowest price at $17"
+    },
+    {
+      "scenario": "you want a durable option with tech",
+      "product": "Everyday Spruce Street Crew Socks",
+      "reason": "Shred Shield Technology reduces wear"
+    },
+    {
+      "scenario": "you want a virtually seamless toe",
+      "product": "Everyday Rollinsville Crew Socks",
+      "reason": "Virtually Seamless Toe for comfort"
+    },
+    {
+      "scenario": "you want a high-quality option with warranty",
+      "product": "Field Guide Crew Lightweight Lifestyle Sock",
+      "reason": "Darn Tough warranty for durability"
+    }
+  ],
+  "rfy2_103919_diff": [
+    {
+      "scenario": "you want everyday comfort without breaking bank",
+      "product": "Solid Cushioned No Show Socks",
+      "reason": "cheaper than Smartwool for same comfort"
+    },
+    {
+      "scenario": "you want durable performance fit socks",
+      "product": "Blossom Crew Lightweight Lifestyle Sock",
+      "reason": "durable and no slipping like Smartwool"
+    },
+    {
+      "scenario": "you want versatile crew socks with cushion",
+      "product": "Birds of a Feather Crew Lightweight Lifestyle Sock",
+      "reason": "same price as Smartwool with similar features"
+    },
+    {
+      "scenario": "you want wide flex stretch no show socks",
+      "product": "Solid Cushioned No Show Socks",
+      "reason": "unique wide flex stretch design"
+    }
+  ],
+  "rfy2_103919_same": [
+    {
+      "scenario": "you want the most affordable option",
+      "product": "Everyday Joviansphere Light Cushion Crew Socks",
+      "reason": "it's $5 cheaper than selected option"
+    },
+    {
+      "scenario": "you want a sock with Shred Shield technology",
+      "product": "Everyday Spruce Street Crew Socks",
+      "reason": "it has Shred Shield Technology"
+    },
+    {
+      "scenario": "you want a sock with Virtually Seamless toe",
+      "product": "Everyday Solid Rib Crew Socks",
+      "reason": "it has Virtually Seamless toe"
+    },
+    {
+      "scenario": "you want a sock with ReGarita design",
+      "product": "Everyday ReGarita Crew Socks",
+      "reason": "it's the same price as selected option"
+    }
+  ],
+  "rfy2_159210_same": [
+    {
+      "scenario": "you want a more affordable option",
+      "product": "Wanderlust Fedora",
+      "reason": "lower price $44 vs $62"
+    },
+    {
+      "scenario": "you want a larger brim for more sun protection",
+      "product": "Natural Blend Kettle",
+      "reason": "larger 4\u00bc\" brim for extra coverage"
+    },
+    {
+      "scenario": "you want a similar style with recycled materials",
+      "product": "Rowan Hat",
+      "reason": "100% recycled materials like Tulum"
+    },
+    {
+      "scenario": "you want a classic fedora with DoubleDown Crown",
+      "product": "Tulum Hat",
+      "reason": "DoubleDown Crown technology for durability"
+    }
+  ],
+  "rfy2_159210_diff": [
+    {
+      "scenario": "you want a more affordable option",
+      "product": "Charlotte Fedora",
+      "reason": "price is $6 lower than Tulum"
+    },
+    {
+      "scenario": "you want a wider brim for shade",
+      "product": "Tulum Hat",
+      "reason": "has a 4 inch brim"
+    },
+    {
+      "scenario": "you want a smaller brim for packing",
+      "product": "Malibu Fedora",
+      "reason": "has a 2 3/4 inch brim"
+    },
+    {
+      "scenario": "you want a similar product with a higher UPF rating",
+      "product": "Tulum Hat",
+      "reason": "has a UPF 50+ rating"
+    }
+  ],
+  "rfy2_184064_same": [
+    {
+      "scenario": "you want maximum comfort and durability",
+      "product": "Give-N-Go 2.0 Hipster",
+      "reason": "durable synthetic fabric and wide waistband"
+    },
+    {
+      "scenario": "you want a more affordable option",
+      "product": "Give-N-Go 2.0 Full Cut Brief",
+      "reason": "$24 is cheaper than $60"
+    },
+    {
+      "scenario": "you want a lightweight and breathable option",
+      "product": "Give-N-Go 2.0 Sport Mesh Hipster",
+      "reason": "ultralight breathable mesh fabric"
+    },
+    {
+      "scenario": "you want a more sustainable option",
+      "product": "Everyday Bralette",
+      "reason": "LENZING ECOVERO viscose blend is eco-friendly"
+    }
+  ],
+  "rfy2_180053_same": [
+    {
+      "scenario": "you want premium features and durability",
+      "product": "Long-Sleeved Capilene\u00ae Cool Merino Blend Graphic Shirt",
+      "reason": "has more features and higher price $73"
+    },
+    {
+      "scenario": "you want affordable option with similar features",
+      "product": "Capilene\u00ae Cool Merino Blend Shirt - Fall 2024",
+      "reason": "cheaper alternative with same features $48"
+    },
+    {
+      "scenario": "you want water-friendly and stretchy fabric",
+      "product": "Long-Sleeved Capilene\u00ae Cool Daily Shirt",
+      "reason": "made with miDori for water comfort $34"
+    },
+    {
+      "scenario": "you want basic comfort without premium features",
+      "product": "Capilene\u00ae Cool Daily Shirt",
+      "reason": "more affordable without extra features $45"
+    }
+  ],
+  "rfy2_39468_same": [
+    {
+      "scenario": "you want a secure ice tool holder",
+      "product": "Tool Blade",
+      "reason": "attaches to any daisy chain or loop"
+    },
+    {
+      "scenario": "you want a helmet holder with mesh",
+      "product": "Mesh Helmet Holder",
+      "reason": "robust, stretchable mesh material for $25"
+    }
+  ],
+  "rfy2_160534_same": [
+    {
+      "scenario": "you want the most affordable option",
+      "product": "Serac 40",
+      "reason": "lowest price at $325"
+    },
+    {
+      "scenario": "you want more storage space",
+      "product": "Serac 40",
+      "reason": "high volume front pocket available"
+    },
+    {
+      "scenario": "you want premium features and build",
+      "product": "Whiteout 45",
+      "reason": "signature pack shape and rolltop closure"
+    }
+  ],
+  "rfy2_132493_same": [
+    {
+      "scenario": "you want limited edition artwork",
+      "product": "Artist Series Trucker Cap",
+      "reason": "unique limited edition artwork"
+    },
+    {
+      "scenario": "you want embroidered patch artwork",
+      "product": "Feel Good Trucker",
+      "reason": "embroidered patch artwork instead of printing"
+    },
+    {
+      "scenario": "you want a larger brim size",
+      "product": "Mountain High Artist Series Trucker Cap",
+      "reason": "2.75\" brim is larger than 2.5\""
+    },
+    {
+      "scenario": "you want a water-resistant hat",
+      "product": "Sport Hat",
+      "reason": "water and stain resistant treatment"
+    }
+  ],
+  "rfy2_72853_same": [
+    {
+      "scenario": "you want a butterfly-themed puzzle",
+      "product": "Poster Art - Butterflies of North America 1000 Piece Jigsaw Puzzle",
+      "reason": "specifically designed for butterfly enthusiasts"
+    },
+    {
+      "scenario": "you want a mammal-themed puzzle",
+      "product": "Poster Art Land Mammals of North America 1000Pc Puzzle",
+      "reason": "similar piece count at same price"
+    },
+    {
+      "scenario": "you want a budget-friendly puzzle option",
+      "product": "Poster Art Rock and Gemstones from Around the World 1000Pc Puzzle",
+      "reason": "cheaper than other options at $18"
+    },
+    {
+      "scenario": "you want a puzzle with beautiful artwork",
+      "product": "Audubon - Songbirds 1000 Piece Puzzle",
+      "reason": "features beautiful hand-drawn illustrations"
+    }
+  ],
+  "rfy2_26011_same": [
+    {
+      "scenario": "you want a hat for a 6-24 month old child",
+      "product": "Play Hat (6-24 Months)",
+      "reason": "specifically designed for this age group"
+    },
+    {
+      "scenario": "you want a hat for a 2-5 year old child",
+      "product": "Play Hat (2-5 Years)",
+      "reason": "slightly larger size for growing children"
+    },
+    {
+      "scenario": "you want a hat for a 5-9 year old child",
+      "product": "Play Hat (5-9 Years)",
+      "reason": "larger size for older kids' heads"
+    },
+    {
+      "scenario": "you want a lightweight, affordable infant hat",
+      "product": "Infant SunSprout Hat",
+      "reason": "$26 is cheaper than Play Hat options"
+    }
+  ],
+  "rfy3_69990_same": [
+    {
+      "scenario": "you want the most affordable option",
+      "product": "Lowa Polishing Brush",
+      "reason": "cheapest alternative at Rs. 13"
+    },
+    {
+      "scenario": "you want the best water protection",
+      "product": "Waterstop",
+      "reason": "effective against dirt and moisture Rs. 16"
+    },
+    {
+      "scenario": "you want a PFC-free leather treatment",
+      "product": "Active Creme PFC Free - Black",
+      "reason": "environmentally friendly at Rs. 15"
+    },
+    {
+      "scenario": "you want a gentle leather brush",
+      "product": "Lowa Triangle Brush",
+      "reason": "soft bristles at Rs. 17"
+    }
+  ],
+  "rfy3_79798_same": [
+    {
+      "scenario": "you want extra cushioning for long hikes",
+      "product": "Everyday Margarita Zero Cushion Crew Socks",
+      "reason": "has zero cushion for extra support"
+    },
+    {
+      "scenario": "you want a more affordable option",
+      "product": "Everyday Joviansphere Light Cushion Crew Socks",
+      "reason": "Rs. 3 cheaper than Margarita"
+    },
+    {
+      "scenario": "you want no visible socks for athletic wear",
+      "product": "Everyday Light Cushion No Show Socks",
+      "reason": "has no show design for stealth"
+    },
+    {
+      "scenario": "you want extra comfort for cold weather",
+      "product": "Everyday ReGarita Crew Socks",
+      "reason": "Rs. 2 more for extra warmth"
+    }
+  ],
+  "rfy3_3425_same": [
+    {
+      "scenario": "you want a traditional paisley design",
+      "product": "Traditional Paisley Bandanas",
+      "reason": "classic overlock stitch sewn edge"
+    },
+    {
+      "scenario": "you want a larger size bandana",
+      "product": "Texas Paisley Bandana",
+      "reason": "larger size imported Texas paisley pattern"
+    },
+    {
+      "scenario": "you want a tie-dye bandana for durability",
+      "product": "Tie-Dye Bandanas",
+      "reason": "ultra-durable high-quality construction"
+    },
+    {
+      "scenario": "you want a southwestern bandana with rolled edges",
+      "product": "Southwestern Bandanas",
+      "reason": "rolled-hem edges made in USA"
+    }
+  ],
+  "rfy4_181850_same_3": [
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Wildcat",
+      "reason": "Rs. 160 is the lowest price"
+    },
+    {
+      "scenario": "you want a waterproof hiking shoe",
+      "product": "TX Hike Mid Leather GTX",
+      "reason": "Gore-Tex lining for excellent water resistance"
+    },
+    {
+      "scenario": "you want a wide forefoot fit",
+      "product": "TX4 EVO ST",
+      "reason": "ECO materials with 7% recycled content"
+    },
+    {
+      "scenario": "you want a rugged hiking shoe",
+      "product": "Akyra II",
+      "reason": "Extremely durable on ridge scrambles and scree"
+    }
+  ],
+  "rfy5_181850_same_3": [
+    {
+      "scenario": "you want an eco-friendly hiker",
+      "product": "TX4 EVO ST",
+      "reason": "made with 7% recycled EVA midsole"
+    },
+    {
+      "scenario": "you want a waterproof hiker",
+      "product": "TX Hike Mid Leather GTX",
+      "reason": "features Gore-Tex lining and recycled materials"
+    },
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Wildcat",
+      "reason": "starts at Rs. 160"
+    },
+    {
+      "scenario": "you want a vegan hiking shoe",
+      "product": "Akyra II",
+      "reason": "made with no animal-derived materials"
+    }
+  ],
+  "rfy5_3425_same_3": [
+    {
+      "scenario": "you want a unique Texas paisley design",
+      "product": "Texas Paisley Bandana",
+      "reason": "Rs. 4, larger size available"
+    },
+    {
+      "scenario": "you want a traditional paisley pattern",
+      "product": "Traditional Paisley Bandanas",
+      "reason": "Printed on both sides, classic design"
+    },
+    {
+      "scenario": "you want a durable tie-dye bandana",
+      "product": "Tie-Dye Bandanas",
+      "reason": "Ultra-durable construction, Rs. 5"
+    },
+    {
+      "scenario": "you want a southwestern bandana with rolled edges",
+      "product": "Southwestern Bandanas",
+      "reason": "Rolled-Hem edges, Made in USA, Rs. 5"
+    }
+  ],
+  "rfy5_8248_same_3": [
+    {
+      "scenario": "you want a hat with a large brim",
+      "product": "Amelia Hat",
+      "reason": "3\u00be\" brim for extra protection"
+    },
+    {
+      "scenario": "you want a smaller hat for travel",
+      "product": "Petite Kristy Hat",
+      "reason": "smaller size and lower price Rs. 46"
+    },
+    {
+      "scenario": "you want a visor for sun protection",
+      "product": "Savannah Visor",
+      "reason": "visor style for face and neck"
+    },
+    {
+      "scenario": "you want a hat with a roll-up design",
+      "product": "Sydney Hat",
+      "reason": "packable design with roll-up feature"
+    }
+  ],
+  "rfy5_21479_same_3": [
+    {
+      "scenario": "you want a compact hat for travel",
+      "product": "Petite Kristy Hat",
+      "reason": "packable and affordable Rs. 46"
+    },
+    {
+      "scenario": "you want a hat with a longer brim",
+      "product": "Amelia Hat",
+      "reason": "3\u00be\" brim for extra protection"
+    },
+    {
+      "scenario": "you want a lightweight visor option",
+      "product": "Savannah Visor",
+      "reason": "Rs. 37, a budget-friendly choice"
+    },
+    {
+      "scenario": "you want a stylish fedora design",
+      "product": "Kristy Fedora",
+      "reason": "Rs. 60, a premium option available"
+    }
+  ],
+  "rfy5_21479_diff_3": [
+    {
+      "scenario": "you want a hat with a 3\" brim",
+      "product": "Petite Kristy Hat",
+      "reason": "Rs. 46"
+    },
+    {
+      "scenario": "you want a hat with Omni-Shade protection",
+      "product": "Diamond Crest Sun Hat",
+      "reason": "Rs. 39"
+    },
+    {
+      "scenario": "you want a hat with a reflective sweatband",
+      "product": "Ultra Escape Boonie",
+      "reason": "Rs. 48"
+    },
+    {
+      "scenario": "you want a printed hat with Omni-Shade",
+      "product": "Diamond Crest Printed Sun Hat",
+      "reason": "Rs. 39"
+    }
+  ],
+  "rfy5_12730_same_3": [
+    {
+      "scenario": "you want a hat with a larger brim",
+      "product": "Savannah Visor",
+      "reason": "3\u00be inch brim provides good coverage"
+    },
+    {
+      "scenario": "you want extra protection from the sun",
+      "product": "Amelia Hat",
+      "reason": "UPF 50+ blocks 97.5% of UV rays"
+    },
+    {
+      "scenario": "you want a compact and packable hat",
+      "product": "Petite Kristy Hat",
+      "reason": "packable and easy to carry"
+    },
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Aqua Visor",
+      "reason": "Rs. 30 is a good price"
+    }
+  ],
+  "rfy5_69991_same_3": [
+    {
+      "scenario": "you want to clean your boots thoroughly",
+      "product": "Lowa Polishing Brush",
+      "reason": "affordable and gentle on leather"
+    },
+    {
+      "scenario": "you want to clean hard-to-reach areas",
+      "product": "Lowa Triangle Brush",
+      "reason": "specifically designed for tight spaces"
+    },
+    {
+      "scenario": "you want a PFC-free cleaning option",
+      "product": "Active Creme PFC Free - Black",
+      "reason": "Rs. 15 and environmentally friendly"
+    },
+    {
+      "scenario": "you want a versatile cleaning cream",
+      "product": "Active Creme PFC Free",
+      "reason": "Rs. 15 and suitable for most boots"
+    }
+  ],
+  "rfy5_182561_same_3": [
+    {
+      "scenario": "you want a traditional flip-flop design",
+      "product": "Hurricane Flip-Flop",
+      "reason": "Rs. 55 with supportive footbed"
+    },
+    {
+      "scenario": "you want a quick-drying webbing upper",
+      "product": "ReFlip",
+      "reason": "Rs. 40 with recycled plastic"
+    },
+    {
+      "scenario": "you want a water-ready and durable flip-flop",
+      "product": "Voya Flip",
+      "reason": "Rs. 38 with Mush topsole"
+    },
+    {
+      "scenario": "you want a budget-friendly option",
+      "product": "Olowahu",
+      "reason": "Rs. 34 for all-day wear"
+    }
+  ],
+  "rfy6_181850_same_3": [
+    {
+      "scenario": "you want an eco-friendly hiking shoe",
+      "product": "TX4 EVO ST",
+      "reason": "eco materials and affordable price $179"
+    },
+    {
+      "scenario": "you want a waterproof hiking shoe",
+      "product": "TX Hike Mid Leather GTX",
+      "reason": "recycled Gore-Tex lining and waterproof $219"
+    },
+    {
+      "scenario": "you want a simple, rugged hiking shoe",
+      "product": "Wildcat",
+      "reason": "simple one-piece upper and durable design $160"
+    },
+    {
+      "scenario": "you want a vegan hiking shoe option",
+      "product": "Akyra II",
+      "reason": "extremely rugged and vegan-friendly $159"
+    }
+  ],
+  "rfy6_181850_diff_3": [
+    {
+      "scenario": "you want a wide forefoot fit",
+      "product": "TX4 EVO ST",
+      "reason": "eco-friendly materials and 7% recycled content"
+    },
+    {
+      "scenario": "you want a durable hiking boot",
+      "product": "Innox Evo II Lo",
+      "reason": "DuraPU midsole with DynaPU shock absorbing zones"
+    },
+    {
+      "scenario": "you want a waterproof hiking boot",
+      "product": "Innox Evo II Lo Ws",
+      "reason": "moisture-wicking textile lining and waterproof design"
+    },
+    {
+      "scenario": "you want a minimalist running shoe",
+      "product": "KSO Evo",
+      "reason": "zero drop and individual toe slots"
+    }
+  ]
+}
