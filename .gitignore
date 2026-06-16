@@ -1,0 +1,50 @@
+# Environment variables
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# FAISS index files (large binary files)
+faiss_index/
+*.index
+*.pkl
+faiss_index.zip
+
+# Database / data files
+db.json
+data/
+
+# Codex / agent config (if sensitive)
+.codex/
+.agents/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
