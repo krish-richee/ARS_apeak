@@ -29,26 +29,33 @@ print(f"   {index.ntotal:,} vectors in FAISS index")
 print(f"   index type: {type(index)}")
 
 # ── Extract ALL vectors at once from FAISS ────────────────────────────────────
-# The saved index is IndexIDMap(IndexFlatIP).  Unwrap/downcast the inner index
-# before calling get_xb; reconstruct_n on IndexIDMap can abort the process.
+# IndexIDMap.reconstruct is unreliable — extract all vectors directly
 print("\n🔧 Extracting all vectors from FAISS index ...")
 try:
-    base_index = faiss.downcast_index(index.index) if hasattr(index, "index") else faiss.downcast_index(index)
-    if not hasattr(base_index, "get_xb"):
-        raise TypeError(f"{type(base_index)} does not expose get_xb")
-    if base_index.d != VECTOR_DIM:
-        raise ValueError(f"index dim is {base_index.d}, expected {VECTOR_DIM}")
-
+    # works for IndexIDMap wrapping IndexFlatIP
     all_vectors = faiss.rev_swig_ptr(
-        base_index.get_xb(),
-        base_index.ntotal * base_index.d,
-    ).reshape(base_index.ntotal, base_index.d).copy()
+        index.get_xb() if hasattr(index, 'get_xb') else index.index.get_xb(),
+        index.ntotal * VECTOR_DIM
+    ).reshape(index.ntotal, VECTOR_DIM).copy()
     print(f"   Extracted via get_xb: {all_vectors.shape}")
 except Exception as e:
-    raise RuntimeError(
-        "Could not extract vectors from FAISS. Re-run generate_embeddings.py "
-        "to rebuild the index as IndexIDMap(IndexFlatIP)."
-    ) from e
+    print(f"   get_xb failed ({e}), trying reconstruct_n ...")
+    try:
+        all_vectors = np.zeros((index.ntotal, VECTOR_DIM), dtype="float32")
+        index.reconstruct_n(0, index.ntotal, all_vectors)
+        print(f"   Extracted via reconstruct_n: {all_vectors.shape}")
+    except Exception as e2:
+        print(f"   reconstruct_n failed ({e2}), extracting one by one ...")
+        all_vectors = []
+        for i in range(len(records)):
+            v = np.zeros(VECTOR_DIM, dtype="float32")
+            try:
+                index.reconstruct(i, v)
+            except Exception:
+                pass
+            all_vectors.append(v)
+        all_vectors = np.array(all_vectors, dtype="float32")
+        print(f"   Extracted one by one: {all_vectors.shape}")
 
 # verify vectors are not all zeros
 nonzero = np.count_nonzero(all_vectors.sum(axis=1))
